@@ -1,6 +1,6 @@
 apiVersion: v2
-publisher: microsoft
-name: ms-ceintl.vscode-language-pack-ja
+publisher: ms-ceintl
+name: vscode-language-pack-ja
 version: 1.51.2
 type: VS Code extension
 displayName: ms-ceintl.vscode-language-pack-ja
